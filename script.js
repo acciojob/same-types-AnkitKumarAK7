@@ -1,6 +1,10 @@
 function isSameType(value1, value2) {
   //your js code here
-}
+	if(typeof(value1) == typeof(value2){
+		reutrn true;
+	}
+	return false;
+ }
 
 // do not change the code below.
 let value1 = prompt("Enter Start of the Range.");
